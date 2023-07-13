@@ -1,6 +1,9 @@
 .navBar{
+    width:100%;
+    position:fixed;
     color:white;
     font-size: 14px;
+    z-index:999;
     .container{
         padding:0px 50px;
         display: flex;

@@ -1,0 +1,4 @@
+Created Two branches-> master and Dev.In the Dev branch i'm pushing all the files at the starting.
+( to change from master->Dev and upload):
+git checkout -b Dev ( Transforming Branch)
+ git push origin Dev --force ( Uploading in Dev Branch ) 
