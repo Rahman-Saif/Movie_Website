@@ -6,6 +6,7 @@ const Home = () => {
   return (
     <div className="home">
      <Navbar/>
+     <img width="100%" src="https://wallpaperaccess.com/full/2040920.jpg"/>
     </div>
   )
 }
